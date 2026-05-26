@@ -1,0 +1,22 @@
+# Hi, I'm Qianyu Yang
+
+AIにコード書かせて動かなかったらAIにキレるタイプの開発者です。
+
+## Bio
+思いついたら作る、飽きたら捨てるスタイルで開発してます。  
+完成度よりスピード優先。
+
+## Tech Stack
+HTML / CSS / JS / Python / Bash / AI（うるさいやつ含む）
+
+## What I do
+- AIにコード書かせる
+- コピペする
+- 動かないと文句言う
+- 直すのはAI
+
+## Projects
+気が向いたやつがGitHubにあります。
+
+## Contact
+[📧](mailto:qianyuyang.vip@gmail.com) | [🐙](https://github.com/qianyu-08)
