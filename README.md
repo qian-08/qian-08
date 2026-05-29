@@ -1,21 +1,26 @@
-# qianyu-08
 
-```txt
-> whoami
+# Hi, I'm Qianyu Yang
 
-qianyuyang
+AIにコード書かせて動かなかったらAIにキレるタイプの開発者です。
 
-> skills
+## Bio
+思いついたら作る、飽きたら捨てるスタイルで開発してます。  
+完成度よりスピード優先。
+最近はChatGPTと喧嘩しています。具体的にはReact+GitHub PagesでWEBアプリ作るのをAIとやってAIが出したリポジトリ構成が意外にファイル多すぎてうちがむかついて"GitHub Actionsで全部できるだろ!"ってAIに怒鳴りました。
 
-HTML
-CSS
-JavaScript
-Python
-Bash
-```
+## Tech Stack
+![Skills](https://skillicons.dev/icons?i=html,css,js,python,bash,react)  
+コードは全部AI製です
 
-![card](./card.svg)
+## What I do
+- AIにコード書かせる
+- コピペする
+- 動かないと文句言う
+- 直すのはAI
 
-```txt
-status: building weird things...
-```
+## Projects
+気が向いたやつがGitHubにあります。
+
+## Contact Me
+- [Email](mailto:qianyuyang0624@gmail.com)
+- [GitHub](https://github.com/qianyu-08)
