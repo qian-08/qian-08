@@ -1,7 +1,8 @@
 ![img](./qianyu.jpg)
-# 楊 謙鈺(やん　ちぇんゆ)
-🏫 横浜市立西中学校(今年入学)  
-⚒️ HTML, CSS, JS, Python, ChatGPT  
-🐙 [@qianyu-08](https://github.com/qianyu-08)  
-📧 [qianyuyang.vip@gmail.com](mailto:qianyuyang.vip@gmail.com)
-
+# 自己紹介
+横浜市に住む中学1年生です
+好きな言語はHTMLです
+AIを使って開発しています
+よろしくお願いします
+# リンク
+- [GitHub](https://github.com/qianyu-08(
