@@ -49,9 +49,9 @@
 
 ## 📬 Contact
 
-![Gmail](https://img.shields.io/badge/Gmail-qianyu.yang%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-qianyuyang.vip%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)
 
-* Email: [qianyu.yang@gmail.com](mailto:qianyu.yang@gmail.com)
+* Email: [qianyuyang.vip@gmail.com](mailto:qianyuyang.vip@gmail.com)
 * GitHub: [https://github.com/qianyu-08](https://github.com/qianyu-08)
 
 返信速度：AI依存（保証なし）
